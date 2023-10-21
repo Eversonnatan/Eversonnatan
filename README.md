@@ -13,7 +13,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eversonnatan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
       
 </div>
-## Tecnologias que eu uso no meu dia
+## Tecnologias que Eu uso no meu dia
 
 <div style="display: inline_block"><br/><img align="center"alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center"alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
