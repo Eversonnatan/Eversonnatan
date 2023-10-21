@@ -10,6 +10,7 @@
 [![linkindn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-dos-santos-6b19aa150/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eversonnatan&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eversonnatan)](https://github.com/Eversonnatan/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/><img align="center"alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
