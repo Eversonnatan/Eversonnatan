@@ -8,9 +8,11 @@
 
 ![matrix (1)](https://github.com/Eversonnatan/Eversonnatan/assets/106198940/606d7bec-0a8d-4f55-9319-a1c04b44d210)
 [![linkindn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everson-dos-santos-6b19aa150/) 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eversonnatan&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eversonnatan)](https://github.com/Eversonnatan/github-readme-stats)
+<div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Eversonnatan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eversonnatan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+      
+</div>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/><img align="center"alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
